@@ -6,5 +6,5 @@ int main(){
     for(int i=1;i<=10;i++){
         sum+=i;
     }
-    cout<<"SUm of first ten natural numbers is: "<<sum<<endl;
+    cout<<"Sum of first ten natural numbers is: "<<sum<<endl;
 }
